@@ -1,0 +1,5 @@
+git fetch origin (the remote github)
+git status (local computer)
+git pull (update)
+git add gitcommande.txt (add file to git tracker)
+ddf fdlfjslm lfkdlsd
